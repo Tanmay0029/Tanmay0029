@@ -39,14 +39,13 @@
 | [**Enterprise Medallion Data Warehouse**](https://github.com/Tanmay0029/SQL-Data-Warehouse-and-Analytics) | Data Warehousing & BI | Star Schema warehouse in SQL Server across 100K+ ERP/CRM records. 15 strategic business questions resolved with T-SQL window functions + 3 Power BI dashboards. |
 | [**Retail Analytics & Customer Intelligence**](https://github.com/Tanmay0029/Retail-Analytics-Customer-Intelligence-Platform) | Dimensional Modeling & Analytics | Bronze/Silver/Gold warehouse processing 1M+ transactions. Modeled RFM segmentation, cohort retention, and CLV with 4 Power BI dashboards. |
 | [**Placement Intelligence System**](https://github.com/nervewastaken/shortlist) | AI & Workflow Automation | Ingests multi-format placement notices (CSV/PDF/XLSX) via Gmail & Calendar APIs. 95%+ classification accuracy using GPT-4o, saving 80% manual effort. |
-| **Multi-Tenant Clinic Platform** *(Client IP Protected)* | Full-Stack Data System | Deployed to live client: JWT tenant isolation, RBAC, normalized billing model, and append-only financial audit trails. |
+| **Multi-Tenant Healthcare Platform** ![Private Client Repo](https://img.shields.io/badge/Status-Live_Client_System-2ea44f?style=flat-square) | Full-Stack Data System | Enterprise multi-tenant clinic platform: JWT tenant isolation, RBAC, normalized billing ledger, and append-only financial audit trails delivered to a live client. |
 | [**Tomato Plant Disease Diagnostics**](https://github.com/Tanmay0029/Tomato-Plant-Disease-Recognition) | Deep Learning & Vision | ResNet152V2 image classification model achieving 98.2% accuracy & 93.1% recall across 10+ plant pathologies, served via Flask. |
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanmay0029&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Tanmay's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay0029&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
+  <img src="https://leetcard.jacoblin.cool/tanmayagrawal2907?theme=dark&font=Ubuntu&ext=activity" alt="Tanmay's LeetCode Stats" height="150" />
 </div>
 
 ---

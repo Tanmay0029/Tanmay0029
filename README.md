@@ -44,8 +44,37 @@
 
 ---
 
+### 🏆 Problem-Solving & SQL Credentials
+
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/tanmayagrawal2907?theme=dark&font=Ubuntu&ext=activity" alt="Tanmay's LeetCode Stats" height="150" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://leetcode.com/u/tanmayagrawal2907/">
+          <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" width="95" alt="LeetCode Top SQL 50 Badge" />
+        </a>
+        <br/>
+        <b>LeetCode Top SQL 50</b>
+        <br/>
+        <sub>Advanced Joins • Window Functions • CTEs & Complex Aggregations</sub>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://leetcode.com/u/tanmayagrawal2907/">
+          <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" width="95" alt="LeetCode 50 Days Badge 2025" />
+        </a>
+        <br/>
+        <b>50 Days Streak (2025)</b>
+        <br/>
+        <sub>Daily Consistency in Problem Solving & Algorithms</sub>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <a href="https://leetcode.com/u/tanmayagrawal2907/">
+    <img src="https://leetcard.jacoblin.cool/tanmayagrawal2907?theme=dark&font=Ubuntu&border=0" alt="Tanmay's LeetCode Stats" height="155" />
+  </a>
 </div>
 
 ---

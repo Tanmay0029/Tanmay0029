@@ -4,6 +4,7 @@
   <p><em>Turning messy transactions and distributed data into trustworthy, executive-ready decisions.</em></p>
 
   <p>
+    <a href="https://tanmay0029.github.io"><img src="https://img.shields.io/badge/Portfolio_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" /></a>
     <a href="https://www.linkedin.com/in/tanmay-agrawal-29jul/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://leetcode.com/u/tanmayagrawal2907/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
     <a href="mailto:tanmayagrawal2907@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -18,6 +19,7 @@
 - 📊 **Business Intelligence & Storytelling**: I build multi-page **Power BI dashboards** with advanced DAX, analyzing customer cohorts, RFM segmentation, Customer Lifetime Value (CLV), and Pareto 80/20 revenue concentration.
 - ⚙️ **Dual-Threat Advantage**: With strong foundations in backend engineering (FastAPI, Docker, REST APIs, C++, DSA), I bridge the gap between engineering pipelines and business stakeholders.
 - 🎓 **Education**: B.Tech in Computer Science Engineering at Vellore Institute of Technology (VIT '26) — **CGPA: 9.09 / 10**.
+- 🌐 **Live Portfolio**: Explore interactive dashboards & case studies at [**tanmay0029.github.io**](https://tanmay0029.github.io)
 
 ---
 
@@ -79,5 +81,5 @@
 
 ---
 <div align="center">
-  💬 Feel free to reach out via <a href="mailto:tanmayagrawal2907@gmail.com">Email</a> or connect on <a href="https://www.linkedin.com/in/tanmay-agrawal-29jul/">LinkedIn</a>.
+  🌐 Explore my live work at <a href="https://tanmay0029.github.io"><b>tanmay0029.github.io</b></a> | Feel free to reach out via <a href="mailto:tanmayagrawal2907@gmail.com">Email</a> or connect on <a href="https://www.linkedin.com/in/tanmay-agrawal-29jul/">LinkedIn</a>.
 </div>
